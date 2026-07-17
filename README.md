@@ -49,6 +49,7 @@ Create Initial Vocabulary
 ↓
 
 Count Adjacent Symbol Pairs
+
 ↓
 
 Find Most Frequent Pair
